@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muditha-ranganath" alt="muditha-ranganath" /></a> </p>
 
+- 🔭 I’m currently working on **Sri Lanka Ports Authority**
+
 - 🌱 I’m currently learning **Sri Lanka Institute of Information Technology**
 
 - 📫 How to reach me **muditharanganath2244@gmail.com**
@@ -22,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muditha-ranganath&show_icons=true&locale=en" alt="muditha-ranganath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muditha-ranganath&" alt="muditha-ranganath" /></p>
+
