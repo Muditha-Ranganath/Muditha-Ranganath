@@ -7,7 +7,7 @@
 </p>
 <p>I am a front-end developer, I'm a Competitive Programmer.</p>
 
-<img align='right' src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" width="170" height="140">
+<img align='right' src="https://dribbble.com/shots/6539429-Worker" width="200" height="180">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muditha-ranganath&label=Profile%20views&color=0e75b6&style=flat" alt="muditha-ranganath" /> </p>
