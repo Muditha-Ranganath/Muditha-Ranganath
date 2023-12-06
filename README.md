@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muditha-ranganath" alt="muditha-ranganath" /></a> </p>
 
-- 🔭 I’m currently working on **Sri Lanka Ports Authority**
+- 🔭 I worked as a trainee web developer at **Sri Lanka Ports Authority**
 
 - 🌱 I’m currently learning **Sri Lanka Institute of Information Technology**
 
